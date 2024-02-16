@@ -1,0 +1,13 @@
+/*this css style is for mobile responsive format*/
+
+@media screen and (max-width: 640px) {
+
+    .tablet{
+        display: none;
+    }
+
+   
+    .desktop{
+        display: none;
+    }
+}
