@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head lang>
+        <title>Tasty Domain</title>
+        <link rel="icon" type="image/x-icon" href="/imgvid/TD favicon.png">
+        <meta charset="utf-8">
+        <meta name="MobileOptimized" content="device-width">
+        <meta name="HandheldFriendly" content="true">
+        <meta name="viewport" content="device-width, initial-scale=1.0">
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+        <link rel="stylesheet" href="/css/mobileStyle.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/tabletStyle.css">
+    </head>
+
+
+    <body>
+
+        <div class="banner">
+            <video autoplay muted loop playsinline style="pointer-events: none;">
+                <source src="/imgvid/potStemBg.mov" type="video/mp4">
+            </video>
+
+            <div class="content">
+                <h1>Tasty Domain</h1>
+                <h2><q>for the foodies</q></h2>
+
+                <button id="btn" type="button" style="margin: 10px;">Login</button>
+                <button id="btn" type="button" style="margin: 10px;">Register</button>
+
+            </div>
+
+            
+        </div>
+
+        
+    </body>
+</html>
