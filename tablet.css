@@ -1,0 +1,8 @@
+/*this is for tablet responsive*/
+
+@media screen and (min-width: 641px) {
+    .desktop {
+        display: none;
+    }
+    
+}
